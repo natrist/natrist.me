@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin: 40px 5% 10%;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Fira Sans', sans-serif;
+}
+
+nav a {
+    margin-right: 1em;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-decoration: none;
+}
+
+main {
+    margin: 50px 0;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.footer-image {
+    margin: 0 10px 10px 0;
+    max-width: 64px;
+}
